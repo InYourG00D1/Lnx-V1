@@ -15,7 +15,7 @@ def menu():
         | |___ | || |\  | |_| |/  \     | || |\  |___) || |/ ___ \| |___| |___|  _ < 
         |_____|___|_| \_|\___//_/\_\___|___|_| \_|____/ |_/_/   \_\_____|_____|_| \_\
                                                                                  ver:1.0              
-[+] Coded By 3xploit
+[+] Coded By 3xploit feat InYourG00D
 [+] Developer blackarch[+]https://blackarch.org/tools.html
 [+] My_Team LNX.CREW
 ========================================
